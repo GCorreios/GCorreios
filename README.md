@@ -1,6 +1,6 @@
-## Olá, bom dia 👋
+## Olá, bom dia (pra quem?) 👋
 
-Here are some ideas to get you started:
+Note, veja, perceba, e repare:
 
 - 🔭 Atualmente to sabendo Excel(Google Planilhas), Word(Google  Documentos), HTML, CSS e JavaScript, C#, Portugol e MySQL
 - 🌱 No momento aprendendo Banco de Dados Avançado
