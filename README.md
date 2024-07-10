@@ -2,7 +2,7 @@
 
 Note, veja, perceba, e repare:
 
-- 🔭 Atualmente to sabendo Excel(Google Planilhas), Word(Google  Documentos), HTML, CSS e JavaScript, C#, Portugol e MySQL.
+- 🔭 Atualmente to sabando Excel(Google Planilhas), Word(Google  Documentos), HTML, CSS e JavaScript, C#, Portugol e MySQL.
 - 🌱 No momento aprendendo Banco de Dados Avançado (ou melhor, tentando aprender).
 - 👍 Quero colaborar com quem me der salario.
 - 🤔 Eu quero ajuda em Banco de Dados Avançado.
